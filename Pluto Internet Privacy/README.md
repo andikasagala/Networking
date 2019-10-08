@@ -1,6 +1,3 @@
-Hello, i am Andika Sagala.
-
-This repo is index for Networking.
-
-Lists:
-- Pluto Internet Privacy
+$git clone https://github.com/andikasagala/Pluto-Internet-Privacy
+or
+visit https://github.com/andikasagala/Pluto-Internet-Privacy
